@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SourceZip": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\Maarten\\source\\repos\\SourceZip\""
+    }
+  }
+}
